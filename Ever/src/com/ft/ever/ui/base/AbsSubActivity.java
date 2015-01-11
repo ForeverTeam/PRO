@@ -22,7 +22,7 @@ public abstract class AbsSubActivity extends FTActivity{
 	public static final String TAB1="com.ft.ever.ui.HomeActivity";
 	public static final String TAB2="com.ft.ever.ui.HomeActivity";
 	public static final String TAB3="com.ft.ever.ui.HomeActivity";
-	public static final String TAB4="com.ft.ever.ui.HomeActivity";
+	public static final String TAB4="com.ft.ever.ui.FindCarActivity";
 	public static final String TAB5="com.ft.ever.ui.HomeActivity";
 	
 	public AbsSubActivity getRequestSubActivity() {

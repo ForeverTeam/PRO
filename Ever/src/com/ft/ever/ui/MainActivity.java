@@ -97,7 +97,7 @@ public class MainActivity extends AbsActivityGroup{
 	public Class<? extends Activity>[] getClasses() {
 		Class<? extends Activity>[] classes = new Class[] { HomeActivity.class,
 //				ManageFinanceActivity.class,ManageTransferActivity.class, AccountActivity.class, MoreActivity.class};
-				HomeActivity.class, HomeActivity.class, HomeActivity.class, HomeActivity.class};
+				HomeActivity.class, HomeActivity.class, FindCarActivity.class, HomeActivity.class};
 		return classes;
 	}
 	
